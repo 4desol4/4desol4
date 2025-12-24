@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Adeleye+Adesola;Full-Stack+Developer;Software+Engineering+Student;Building+Solutions+with+MERN+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Adeleye+Adesola;Full-Stack+Developer;Software+Engineer;Building+Solutions+with+MERN+Stack" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Passionate Software Engineer | Problem Solver | Full-Stack Developer</h3>
@@ -79,7 +79,7 @@ I'm a **300-level Software Engineering student** at Mountain Top University, pas
     <td width="50%">
       <h3 align="center">LashUp & More - E-Commerce</h3>
       <p align="center">
-        <a href="https://github.com/4desol4/lashupandmore" target="_blank">
+        <a href="https://github.com/4desol4/LashUp-And-More-Frontend" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github" />
         </a>
         <a href="https://lash-up-and-more-frontend.vercel.app/" target="_blank">
@@ -94,7 +94,7 @@ I'm a **300-level Software Engineering student** at Mountain Top University, pas
     <td width="50%">
       <h3 align="center">MERN Real Estate Platform</h3>
       <p align="center">
-        <a href="https://github.com/4desol4/mern-real-estate" target="_blank">
+        <a href="https://github.com/4desol4/MERN-STACK-REAL-ESTATE-FRONTEND" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github" />
         </a>
         <a href="https://mern-stack-real-estate-frontend.vercel.app/" target="_blank">
@@ -107,7 +107,7 @@ I'm a **300-level Software Engineering student** at Mountain Top University, pas
     <td width="50%">
       <h3 align="center">Java Desktop Applications</h3>
       <p align="center">
-        <a href="https://github.com/4desol4/java-projects" target="_blank">
+        <a href="https://github.com/4desol4/GPA-Calculator" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github" />
         </a>
       </p>
@@ -116,23 +116,6 @@ I'm a **300-level Software Engineering student** at Mountain Top University, pas
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4desol4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4desol4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4desol4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4desol4&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
 
 ---
 
@@ -197,16 +180,6 @@ I'm always excited to collaborate on interesting projects or discuss technology!
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4desol4/4desol4/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4desol4/4desol4/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/4desol4/4desol4/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
