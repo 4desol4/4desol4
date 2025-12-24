@@ -81,7 +81,9 @@ I’m actively seeking a **SIWES placement starting March 2026**, where I can:
 ---
 ### 💭 Random Dev Quote 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /> 
-</p> ---
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4desol4&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
