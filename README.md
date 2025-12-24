@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Adeleye+Adesola;Software+Engineering;Full-Stack+Developer;Building+Solutions+with+MERN+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Adeleye+Adesola;Software+Engineer;Full-Stack+Developer;Building+Solutions+with+MERN+Stack" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Software Engineering • Full-Stack Developer • Problem Solver</h3>
+<h3 align="center">Software Engineer • Full-Stack Developer • Problem Solver</h3>
 
 <p align="center">
   <a href="https://cravins.vercel.app/">
