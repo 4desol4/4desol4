@@ -176,10 +176,9 @@ I'm actively seeking **SIWES placement** opportunities starting **March 1, 2026*
 
 I'm always excited to collaborate on interesting projects or discuss technology!
 
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
-- 📧 **Email:** your.email@example.com
-- 🌐 **Portfolio:** [cravins.vercel.app](https://cravins.vercel.app/)
-- 📱 **WhatsApp:** +234-XXX-XXX-XXXX
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/adesola-adeleye-4desol4)
+- 📧 **Email:** adeleyeshola0@gmail.com
+- 📱 **WhatsApp:** +234-703-307-4778
 
 ---
 
